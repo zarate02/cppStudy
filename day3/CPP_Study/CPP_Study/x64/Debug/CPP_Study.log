@@ -1,0 +1,7 @@
+﻿  CPP_Study.cpp
+C:\dev\game\day3\CPP_Study\CPP_Study\CPP_Study.cpp(100,8): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\dev\game\day3\CPP_Study\CPP_Study\CPP_Study.cpp(101,8): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+C:\dev\game\day3\CPP_Study\CPP_Study\CPP_Study.cpp(102,8): warning C4552: '>': 식의 결과가 사용되지 않습니다.
+C:\dev\game\day3\CPP_Study\CPP_Study\CPP_Study.cpp(112,23): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+C:\dev\game\day3\CPP_Study\CPP_Study\CPP_Study.cpp(115,19): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+  CPP_Study.vcxproj -> C:\dev\game\day3\CPP_Study\x64\Debug\CPP_Study.exe
